@@ -17,7 +17,7 @@
 //  -109 <= target <= 109
 //   Only one valid answer exists.
 
-package com.hussainsaifuddin.Strings;
+package com.hussainsaifuddin.Solutions;
 
 import java.util.*;
 
